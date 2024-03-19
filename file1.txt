@@ -2,4 +2,8 @@ This is my first text file
 
 In this i installed the git on windows
 
+Checked the version on git
 
+created a sample folder on desktop
+
+created a project by initializing git init command
