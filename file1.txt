@@ -11,5 +11,3 @@ created a project by initializing git init command
 already .git folder is exists as hidden
 
 created five files in the folder
-
-created html files and .gitignore folder
