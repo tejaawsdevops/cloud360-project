@@ -10,4 +10,6 @@ created a project by initializing git init command
 
 already .git folder is exists as hidden
 
+updated first file text
+
 created five files in the folder

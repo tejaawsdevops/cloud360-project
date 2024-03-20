@@ -1,1 +1,3 @@
 This is my second text in second file
+
+updated second file
